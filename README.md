@@ -1,5 +1,3 @@
-# data-science-python-foundations
-
 # Employee Data Analysis from PDF
 
 ## Project Overview
@@ -123,25 +121,6 @@ The analysis was used to identify patterns related to:
 * Performance and salary
 * Salary outliers
 
-## Project Structure
-
-```text
-data-science-python-foundations/
-│
-├── data/
-│   ├── raw/
-│   │   └── employee_report.pdf
-│   │
-│   └── processed/
-│       └── employee_cleaned.csv
-│
-├── notebooks/
-│   └── employee_pdf_analysis.ipynb
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
-```
 
 ## Conclusion
 
